@@ -3,4 +3,4 @@
 ## Build
 	ghc gf.hs
 ## Usage
-	$gf 16
+	gf 512
